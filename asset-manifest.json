@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ad-react/static/css/main.ed2130cd.css",
+    "main.js": "/ad-react/static/js/main.f1025e1d.js",
+    "static/js/787.710e5293.chunk.js": "/ad-react/static/js/787.710e5293.chunk.js",
+    "index.html": "/ad-react/index.html",
+    "main.ed2130cd.css.map": "/ad-react/static/css/main.ed2130cd.css.map",
+    "main.f1025e1d.js.map": "/ad-react/static/js/main.f1025e1d.js.map",
+    "787.710e5293.chunk.js.map": "/ad-react/static/js/787.710e5293.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed2130cd.css",
+    "static/js/main.f1025e1d.js"
+  ]
+}
